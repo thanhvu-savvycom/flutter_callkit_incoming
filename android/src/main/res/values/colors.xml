@@ -8,4 +8,7 @@
 
     <color name="action_text">#FFFFFF</color>
     <color name="ripple_main_color">#80ffffff</color>
+    <color name="bg_custom_notification">#CC0A0B09</color>
+    <color name="title_color_notification">#000000</color>
+    <color name="sub_title_color_notification">#80000000</color>
 </resources>
